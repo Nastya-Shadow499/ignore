@@ -1,6 +1,8 @@
 # команды git 
 ## создание репозитория 
-`git config --global user.name "имя_пользователя"`
+```
+git config --global user.name "имя_пользователя"
+```
 >ввод имени пользователя 
 ```
 git config --global user.email "свой_email"
